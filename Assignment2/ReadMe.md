@@ -5,3 +5,6 @@
 
 3.  program, which reads heights (inches.) of customers into a list and convert these
 heights to centimeters in a separate list using Nested Interactive loop and List comprehensions
+
+https://youtu.be/zIFj8HzhPoE
+https://github.com/DevMaverick1/NNDL/tree/main/Assignment2
