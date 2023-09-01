@@ -14,5 +14,5 @@ Then replace the max in each row by 0 (axis=1)
 (you can NOT implement it via for loop)
 
 
-GIT HUB: -
-You Tube Link: -
+GIT HUB: - https://github.com/DevMaverick1/NNDL/tree/main/Assignment3
+You Tube Link: - https://youtu.be/QK3ASaJxf0I
