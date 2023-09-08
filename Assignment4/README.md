@@ -24,5 +24,5 @@ c. Train and predict the model.
 d. Calculate the mean_squared error
 e. Visualize both train and test data using scatter plot.
 
-Git Hub Link: -
-You Tube Link: - 
+Git Hub Link: - https://github.com/DevMaverick1/NNDL/tree/main/Assignment4
+You Tube Link: - https://youtu.be/pOMifNYikDI
