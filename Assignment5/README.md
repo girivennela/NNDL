@@ -19,3 +19,4 @@ SVM would have produced better results if the data transmission had occurred uti
 In conclusion, naive bayes would be preferable if forced to select between it and ordinary SVM.
 
 GITHUB Link:- https://github.com/DevMaverick1/NNDL/tree/main/Assignment5
+You Tube Link: - https://youtu.be/8x_B3uGE5C4
