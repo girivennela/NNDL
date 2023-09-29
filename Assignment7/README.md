@@ -30,4 +30,5 @@ Programming elements:
 • Fully connected output layer with 10 units and a Softmax activation function
 
 
-GIT HUB Link: - 
+GIT HUB Link: - https://github.com/DevMaverick1/NNDL/tree/main/Assignment7
+You Tube Link: -
