@@ -13,5 +13,5 @@ Also, visualize the same test data before reconstruction using Matplotlib
 4. plot loss and accuracy using the history object
 
 
-GIT HUB Link: - 
+GIT HUB Link: - https://github.com/DevMaverick1/NNDL/tree/main/Assignment8
 You Tube Link: -
